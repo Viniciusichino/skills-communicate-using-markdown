@@ -4,3 +4,7 @@
 
 ``` javascript
 What the fuck = que porra é essa?
+
+- [ ] Smash those tutorials
+- [ ] learn how to use github
+- [ ] Win
